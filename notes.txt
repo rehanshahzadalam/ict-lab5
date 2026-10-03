@@ -1,3 +1,3 @@
 Now this is the change, text being replaced.
 New section: 1B
-NNew Text
+New Text
